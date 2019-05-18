@@ -1,4 +1,4 @@
-lol,dota,foda-se,foda-se
+lol,dota
 
 
 
